@@ -51,5 +51,5 @@ class MainWindow(QMainWindow):
     
 app = QApplication(sys.argv)
 QApplication.setApplicationName('PYTHON BROWSER BY HOODMASTER')
-window = Main
+window = MainWindow
 app.exec_()
